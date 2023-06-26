@@ -71,43 +71,6 @@
 		"uniques": ["Can [Spread Religion] [2] times", "[+50]% Strength <vs [Mounted] units>"]
 	}
 	
-	{
-		"name": "Agrianes",
-		"unitType": "Ranged",
-		"replaces": "Archer",
-		"uniqueTo":"Macedon",
-		"movement": 2,
-		"strength": 13,
-		"cost": 50,
-		"requiredTech": "Archery",
-		"obsoleteTech": "Military Science",
-		"uniques": ["[+30]% Strength <vs [Melee] units>"]
-	}
-	
-	{
-		"name": "Pezhetairoi",
-		"unitType": "Melee",
-		"replaces": "Spearman",
-		"uniqueTo":"Macedon",
-		"movement": 1,
-		"strength": 14,
-		"cost": 55,
-		"requiredTech": "Bronze Working",
-		"obsoleteTech": "Military Science",
-		"uniques": ["[+30]% Strength <vs [Ranged] units>", "[+100]% Strength <vs [Mounted] units>, All tiles cost 1 movement"]
-	}
-	{
-		"name": "Hetairoi",
-		"unitType": "Melee",
-		"replaces": "Horseman",
-		"uniqueTo":"Macedon",
-		"movement": 3,
-		"strength": 16,
-		"cost": 85,
-		"requiredTech": "The Wheel",
-		"obsoleteTech": "Military Science",
-		"uniques": ["[+50]% Strength <vs [Ranged] units>", "Consumes [1] [Horses]"]
-	}
 	
 	{
 		"name": "Carabinieri",
