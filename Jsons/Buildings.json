@@ -1,0 +1,39 @@
+[
+	{ "name": "Kathedrala",
+        "faith":5
+		"science":2
+        "percentStatBonus": {"science": 15, "food": 5},
+        "specialistSlots": {"Scientist": 2},
+        "replaces": "Temple",
+        "uniqueTo": "Moravia",
+        "maintenance": 4,
+        "hurryCostModifier": 20,
+        "uniques": ["[+2 Faith] from [Farm] [in this city]"],
+        "requiredTech": "Theology"
+	}
+	
+	{ "name": "Hombar",
+        "food": 3
+		"gold": 1
+        "percentStatBonus": {"food": 20},
+        "replaces": "Granary",
+        "uniqueTo": "Hungary",
+        "maintenance": 1,
+        "hurryCostModifier": 30,
+        "uniques": ["[+1 Food] from [Farm] [in this city]"],
+        "requiredTech": "Agriculture"
+	}
+	
+	{ "name": "Basilica",
+        "faith": 5
+		"happiness": 1
+		"culture": 1
+        "percentStatBonus": {"food": 20},
+        "replaces": "Temple",
+        "uniqueTo": "Italy",
+        "maintenance": 2,
+        "hurryCostModifier": 30,
+        "uniques": ["[+1 Culture] [+1 Science] [+1 Happiness] from [Holy Site]"],
+        "requiredTech": "Theology"
+	}
+]

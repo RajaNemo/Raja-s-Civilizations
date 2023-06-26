@@ -1,0 +1,277 @@
+[
+    
+	{
+		"name": "Moravia",
+		"leaderName": "Rostislav",
+		"adjective": ["Moravian"],
+		"outerColor": [71, 92, 158],
+		"innerColor": [233, 174, 65],
+
+
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Military",
+		"favoredReligion": "Christianity",
+
+		"startIntroPart1": "O, wise Rostislav, may your reign be glorious as the beauty of the shining sun over the Moravian meadows.",
+		"startIntroPart2": "May your people be gifted with wisdom, as they are with the sword. Good luck and farewell.",
+		
+		"introduction": "I am Rostislav, God's servant. I hope we will get along fine.",
+		"declaringWar": "May God have mercy on you, for I won't.",
+		"attacked": "I pity your people for the fool they have as a leader",
+		"afterPeace": "What do you ask of, heathen?",
+		"defeated": "May my people forgive me, oh, for I was defeated by a heathen.",
+
+		"neutralHello": "Zdravo",
+		"hateHello": "What do you desire, heathen?",
+
+		"tradeRequest": "This could be beneficial",
+		"neutralLetsHearIt": "Alright, continue then.",
+		"hateLetsHearIt": ["You again?", "Ok..talk."],
+		"neutralNo": ["We can't accept that", "Thank you, but no."],
+		"neutralYes": ["It was a pleasure doing business with you.", "Till next time"],
+		"hateNo": ["I despise your pitiful offers", "I cannot accept this, for you are such a disgrace to the world."],
+		"hateYes": ["We may not get along, heathen, but I have to accept this for the sake of my people.", "Seems beneficial for both sides."],
+
+		"uniqueName": "Divine Enlightement",
+		"uniques": ["[+1 Gold][+1 Culture][+1 Science] from every [Kathedrala]"],
+
+		"cities": ["Brno", "Ostrava", "Zlin", "Velegrad", "Olomouc", "Jihlava", "Praga"]
+	
+	
+	
+	
+	
+	
+	}
+	
+	{
+		"name": "Hungary",
+		"leaderName": "Sigismund",
+		"adjective": ["Hungarian"],
+		"outerColor": [62, 138, 68],
+		"innerColor": [209, 44, 59],
+
+		"startBias": ["Hills"],
+		"preferredVictoryType": "Military",
+		"favoredReligion": "Christianity",
+
+		"startIntroPart1": "Sigismund, may your rule be just and wise. Lead your people wisely, and surely the Pearl of the Danube will shine the brightest.",
+		"startIntroPart2": "The beauties of your land are known far and wide. Now it is upon you, to lead this great country once again. Farewell",
+		
+		"introduction": "I am Sigismund.",
+		"declaringWar": "Your people will suffer at the hands of my brothers",
+		"attacked": "HA! You think your mere army of pitiful fools can defeat me?",
+		"afterPeace": "What do you ask of, heathen?",
+		"defeated": "Curses! How could I lose to a fool?",
+
+		"neutralHello": "E?",
+		"hateHello": "What do you desire, heathen?",
+
+		"tradeRequest": "This could be beneficial",
+		"neutralLetsHearIt": "Alright, continue then.",
+		"hateLetsHearIt": ["You again?", "Ok..talk."],
+		"neutralNo": ["We can't accept that", "Thank you, but no."],
+		"neutralYes": ["It was a pleasure doing business with you.", "Till next time"],
+		"hateNo": ["I despise your pitiful offers", "I cannot accept this, for you are such a disgrace to the world."],
+		"hateYes": ["We may not get along, heathen, but I have to accept this for the sake of my people.", "Seems beneficial for both sides."],
+
+		"uniqueName": "Pearl of the Danube",
+		"uniques": ["[+2 Culture] [+1 Gold] [+1 Science] from every [Granary]"],
+
+		"cities": ["Budim", "Pest", "Zlin", "Velegrad", "Olomouc", "Jihlava"]
+	
+	
+	
+	
+	
+	
+	}
+	
+	{
+		"name": "Serbia",
+		"leaderName": "Stefan Dusan",
+		"adjective": ["Serbian"],
+		"outerColor": [34, 48, 80],
+		"innerColor": [197, 105, 105],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Military",
+		"favoredReligion": "Christianity",
+
+		"startIntroPart1": "O great leader Stefan, may your reign be marked by might and joy. Blessings upon you, God's servant.",
+		"startIntroPart2": "It is time to lead the Serbs once again. May you rise to glory and farewell.",
+		
+		"introduction": "Dusan's my name and I serve the Lord.",
+		"declaringWar": "I will destroy your lands.",
+		"attacked": "Very well then, If you think you've got what it takes to defeat Serbia.",
+		"afterPeace": "What do you ask of, heathen?",
+		"defeated": "Curses! How could I lose to a fool?",
+
+		"neutralHello": "E?",
+		"hateHello": "What do you desire, heathen?",
+
+		"tradeRequest": "This could be beneficial",
+		"neutralLetsHearIt": "Alright, continue then.",
+		"hateLetsHearIt": ["You again?", "Ok..talk."],
+		"neutralNo": ["We can't accept that", "Thank you, but no."],
+		"neutralYes": ["It was a pleasure doing business with you.", "Till next time"],
+		"hateNo": ["I despise your pitiful offers", "I cannot accept this, for you are such a disgrace to the world."],
+		"hateYes": ["We may not get along, heathen, but I have to accept this for the sake of my people.", "Seems beneficial for both sides."],
+
+		"uniqueName": "Land of the fertile Venus",
+		"uniques": ["[+1 Culture] [+1 Faith] from [Plains], starts with [Agriculture], [+1 Happiness] from [Farm]"],
+
+		"cities": ["Skoplja", "Naissus", "Belgrad", "Pirot", "Cacak", "Pazar", "Jagodina"]
+	
+	
+	
+	
+	
+	
+	}
+	
+	{
+		"name": "Macedon",
+		"leaderName": "Alexander the Great",
+		"adjective": ["Macedonian"],
+		"outerColor": [179, 36, 36],
+		"innerColor": [239, 247, 79],
+		"startBias": ["Hills"],
+		"preferredVictoryType": "Military",
+		"favoredReligion": "Christianity",
+
+		"startIntroPart1": "Alexander, your conquests have gathered world renown. Now it is upon your greatest challenge - return the glory of the Macedonian empire once again!",
+		"startIntroPart2": "Charge with your mighty Pezhetairoi, and conquer everything in your sight under the banner of the Macedonians.",
+		
+		"introduction": "Alexander, son of Gods and servant to Macedon.",
+		"declaringWar": "A new Alexandria is born.",
+		"attacked": "Finally, we shall meet in war",
+		"afterPeace": "What do you ask of, war brother?",
+		"defeated": "How could the son of Zeus be defeated by a fool?",
+
+		"neutralHello": "E?",
+		"hateHello": "What do you desire, heathen?",
+
+		"tradeRequest": "This could be beneficial",
+		"neutralLetsHearIt": "Alright, continue then.",
+		"hateLetsHearIt": ["You again?", "Ok..talk."],
+		"neutralNo": ["We can't accept that", "Thank you, but no."],
+		"neutralYes": ["It was a pleasure doing business with you.", "Till next time"],
+		"hateNo": ["I despise your pitiful offers", "I cannot accept this, for you are such a disgrace to the world."],
+		"hateYes": ["We may not get along, heathen, but I have to accept this for the sake of my people.", "Seems beneficial for both sides."],
+
+		"uniqueName": "A proud warmonger",
+		"uniques": ["[+1 Production] from [Barracks],  <upon declaring war with a major Civilization> Empire enters a [5]-turn Golden Age, [+100 Gold][+100 Culture][+100 Science] <upon conquering a city> "],
+
+		"cities": ["Aigai", "Solun", "Kukus", "Lerin", "Ohrid", "Prosek", "Valyandol", "Astibus", "Strymon", "Koriton", "Tauresium","Stobi", "Heraklea Lyncestis"]
+	
+	
+	
+	
+	
+	
+	}
+	
+	{ 
+
+		"name": "Judea",
+		"leaderName": "David",
+		"adjective": ["Judean"],
+		"outerColor": [59, 121, 220],
+		"innerColor": [213, 224, 241],
+
+
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Scientific",
+		"favoredReligion": "Judaism",
+
+		"startIntroPart1": "O great servant of God, you are chosen to be the shepherd of your people. Lead them wisely and the Judean civilization will flourish.",
+		"startIntroPart2": "Oh, great king, tales of your wisdom have been widespread around the Middle East and Mediterannean. Will you once again prove your worth? Will you build a civilization that will stand the test of time?",
+		
+		"introduction": "I am David, God's servant.",
+		"declaringWar": "Your false Gods have abandoned you.",
+		"attacked": "HA! I have defeated Goliath, I can surely defeat a foolish foe like you.",
+		"afterPeace": "Although we are at peace, I still want to see you defeated.",
+		"defeated": "I have abandoned my people.",
+
+		"neutralHello": "Good morning.",
+		"hateHello": "Your presence tires me.",
+
+		"tradeRequest": "I know you want this trade, I'm sure of that.",
+		"neutralLetsHearIt": "Yeah, I hear your offer.",
+		"hateLetsHearIt": ["Ok, what is it?", "Ok.. let's hear it..."],
+		"neutralNo": ["No no.", "Thank you, but no."],
+		"neutralYes": ["Thank you very much, goodbye.", "This is what I wanted!..."],
+		"hateNo": ["NO, no in the slightest", "How could you think of such a thing!?"],
+		"hateYes": ["I only accept because I have to.", "Whatever, I don't care."],
+
+		"uniqueName": "The Promised Land",
+		"uniques": ["[+3 Faith] from [Pasture]", "[+1 Science] from [Desert]"],
+		
+		"cities": ["Jerusalem", "Tel Aviv", "Bethlehem","Hebron", "Netophah","Nineveh","Caesarea", "Nazareth","Masada", "Jaffa", "Galilee"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	}
+
+	
+	
+	{
+		"name": "Italy",
+		"leaderName": "Lorenzo De Medici",
+		"adjective": ["Italian"],
+		"outerColor": [161, 58, 58],
+		"innerColor": [255,255,255],
+
+
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Cultural",
+		"favoredReligion": "Christianity",
+
+		"startIntroPart1": "O, wise Rostislav, may your reign be glorious as the beauty of the shining sun over the Moravian meadows.",
+		"startIntroPart2": "May your people be gifted with wisdom, as they are with the sword. Good luck and farewell.",
+		
+		"introduction": "I am Rostislav, God's servant. I hope we will get along fine.",
+		"declaringWar": "May God have mercy on you, for I won't.",
+		"attacked": "I pity your people for the fool they have as a leader",
+		"afterPeace": "What do you ask of, heathen?",
+		"defeated": "May my people forgive me, oh, for I was defeated by a heathen.",
+
+		"neutralHello": "Zdravo",
+		"hateHello": "What do you desire, heathen?",
+
+		"tradeRequest": "This could be beneficial",
+		"neutralLetsHearIt": "Alright, continue then.",
+		"hateLetsHearIt": ["You again?", "Ok..talk."],
+		"neutralNo": ["We can't accept that", "Thank you, but no."],
+		"neutralYes": ["It was a pleasure doing business with you.", "Till next time"],
+		"hateNo": ["I despise your pitiful offers", "I cannot accept this, for you are such a disgrace to the world."],
+		"hateYes": ["We may not get along, heathen, but I have to accept this for the sake of my people.", "Seems beneficial for both sides."],
+
+		"uniqueName": "Home of the Renaissance",
+		"uniques": ["[+50% Culture],[+50% Science] from [Capital], [+1 Science], [+1 Culture] from [Library]"]
+
+		"cities": ["Florence","Pisa","Rome","Napoli", "Genoa"]
+	
+	
+	
+	
+	
+	
+	}
+]

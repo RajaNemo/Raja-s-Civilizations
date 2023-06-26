@@ -1,0 +1,124 @@
+[
+	{
+		"name": "Vityaz",
+		"unitType": "Mounted",
+		"replaces": "Knight",
+		"uniqueTo":"Moravia",
+		"movement": 3,
+		"strength": 23,
+		"cost": 130,
+		"maintenance": 1
+		"requiredTech": "Civil Service",
+		"requiredResource": "Horses",
+		"obsoleteTech": "Military Science",
+		"uniques": ["Can move after attacking"],
+		"attackSound": "shot",
+		
+	}
+	
+	{
+		"name": "Hoszar",
+		"unitType": "Mounted",
+		"replaces": "Knight",
+		"uniqueTo":"Hungary",
+		"movement": 2,
+		"strength": 25,
+		"cost": 160,
+		"requiredTech": "Chivalry",
+		"requiredResource": "Horses",
+		"obsoleteTech": "Military Science",
+		"uniques": ["All tiles cost 1 movement"]
+		"attackSound": "shot",
+		
+	}
+	
+	{
+		"name": "Colonizer",
+		"unitType": "Melee",
+		"movement": 3,
+		"strength": 13,
+		"cost": 130,
+		"requiredTech": "Civil Service",
+		"obsoleteTech": "Military Science",
+		"uniques": [
+			"All tiles cost 1 movement",
+			"Founds a new city <by consuming this unit>" ]
+	}
+	
+	{
+		"name": "Gusar",
+		"unitType": "Mounted",
+		"replaces": "Horseman",
+		"uniqueTo":"Serbia",
+		"movement": 2,
+		"strength": 21,
+		"cost": 90,
+		"requiredTech": "Civil Service",
+		"obsoleteTech": "Military Science",
+		"uniques": ["Can move after attacking"]
+	}
+	
+	{
+		"name": "Maccabee",
+		"unitType": "Melee",
+		"replaces": "Spearman",
+		"uniqueTo":"Judea",
+		"movement": 2,
+		"strength": 12,
+		"cost": 65,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Military Science",
+		"uniques": ["Can [Spread Religion] [2] times", "[+50]% Strength <vs [Mounted] units>"]
+	}
+	
+	{
+		"name": "Agrianes",
+		"unitType": "Ranged",
+		"replaces": "Archer",
+		"uniqueTo":"Macedon",
+		"movement": 2,
+		"strength": 13,
+		"cost": 50,
+		"requiredTech": "Archery",
+		"obsoleteTech": "Military Science",
+		"uniques": ["[+30]% Strength <vs [Melee] units>"]
+	}
+	
+	{
+		"name": "Pezhetairoi",
+		"unitType": "Melee",
+		"replaces": "Spearman",
+		"uniqueTo":"Macedon",
+		"movement": 1,
+		"strength": 14,
+		"cost": 55,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Military Science",
+		"uniques": ["[+30]% Strength <vs [Ranged] units>", "[+100]% Strength <vs [Mounted] units>, All tiles cost 1 movement"]
+	}
+	{
+		"name": "Hetairoi",
+		"unitType": "Melee",
+		"replaces": "Horseman",
+		"uniqueTo":"Macedon",
+		"movement": 3,
+		"strength": 16,
+		"cost": 85,
+		"requiredTech": "The Wheel",
+		"obsoleteTech": "Military Science",
+		"uniques": ["[+50]% Strength <vs [Ranged] units>", "Consumes [1] [Horses]"]
+	}
+	
+	{
+		"name": "Carabinieri",
+		"unitType": "Gunpowder",
+		"replaces": "Infantry",
+		"uniqueTo":"Italy",
+		"movement": 3,
+		"strength": 73,
+		"cost": 385,
+		"requiredTech": "Plastics",
+		"obsoleteTech": "Mobile Tactics",
+		"uniques": ["Can move after attacking", "[+50]% Strength <vs [Mounted] units>"]
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{ "name": "Rudnik",
+        "gold": 3
+		"production":2
+		"terrainsCanBeBuiltOn": ["Land"]
+        "percentStatBonus": {"gold": 10},
+        "replaces": "Quarry",
+        "uniqueTo": "Serbia",
+        "maintenance": 2,
+        "hurryCostModifier": 20,
+        "uniques": ["[Can only be built on [Stone]"],
+        "requiredTech": "Masonry"
+	}
+
+	{ "name": "Kibbutz",
+        "faith": 2
+		"culture": 2
+		"terrainsCanBeBuiltOn": ["Land"]
+        "percentStatBonus": {"faith": 10},
+        "uniqueTo": "Judea",
+        "maintenance": 3,
+        "hurryCostModifier": 20,
+        "uniques": ["[Can only be built on [Farm]"],
+        "requiredTech": "Economics"
+	}
+]
