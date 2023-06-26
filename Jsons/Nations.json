@@ -129,47 +129,7 @@
 	
 	}
 	
-	{
-		"name": "Macedon",
-		"leaderName": "Alexander the Great",
-		"adjective": ["Macedonian"],
-		"outerColor": [179, 36, 36],
-		"innerColor": [239, 247, 79],
-		"startBias": ["Hills"],
-		"preferredVictoryType": "Military",
-		"favoredReligion": "Christianity",
 
-		"startIntroPart1": "Alexander, your conquests have gathered world renown. Now it is upon your greatest challenge - return the glory of the Macedonian empire once again!",
-		"startIntroPart2": "Charge with your mighty Pezhetairoi, and conquer everything in your sight under the banner of the Macedonians.",
-		
-		"introduction": "Alexander, son of Gods and servant to Macedon.",
-		"declaringWar": "A new Alexandria is born.",
-		"attacked": "Finally, we shall meet in war",
-		"afterPeace": "What do you ask of, war brother?",
-		"defeated": "How could the son of Zeus be defeated by a fool?",
-
-		"neutralHello": "E?",
-		"hateHello": "What do you desire, heathen?",
-
-		"tradeRequest": "This could be beneficial",
-		"neutralLetsHearIt": "Alright, continue then.",
-		"hateLetsHearIt": ["You again?", "Ok..talk."],
-		"neutralNo": ["We can't accept that", "Thank you, but no."],
-		"neutralYes": ["It was a pleasure doing business with you.", "Till next time"],
-		"hateNo": ["I despise your pitiful offers", "I cannot accept this, for you are such a disgrace to the world."],
-		"hateYes": ["We may not get along, heathen, but I have to accept this for the sake of my people.", "Seems beneficial for both sides."],
-
-		"uniqueName": "A proud warmonger",
-		"uniques": ["[+1 Production] from [Barracks],  <upon declaring war with a major Civilization> Empire enters a [5]-turn Golden Age, [+100 Gold][+100 Culture][+100 Science] <upon conquering a city> "],
-
-		"cities": ["Aigai", "Solun", "Kukus", "Lerin", "Ohrid", "Prosek", "Valyandol", "Astibus", "Strymon", "Koriton", "Tauresium","Stobi", "Heraklea Lyncestis"]
-	
-	
-	
-	
-	
-	
-	}
 	
 	{ 
 
